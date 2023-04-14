@@ -1,0 +1,119 @@
+h1 { color: #FFFFFF;}
+
+h2 {color: #2E2F42;}
+
+ul {list-style: none;}
+
+.hero{background: #2E2F42;}
+.hero-header {font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;}
+
+.a {text-decoration: none;}
+
+.nav {color:#2E2F42;}
+
+.adres {color:  #434455;
+}
+
+.a {color:#2E2F42;}
+
+.our-team {color: #F4F4FD;}
+
+.our-team h2 {font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    color: #2E2F42;}
+
+.our-team h3 {font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;}
+
+.our-team p {font-weight: 400;
+    font-size: 16px;
+    line-height: 24px}
+
+h3 {color: #2E2F42;}
+
+p {color: #434455;}
+
+.OrderService {
+    width: 169px;
+    height: 56px;
+    left: 636px;
+    top: 428px; 
+    border-radius: 4px;
+    background: #4D5AE5;}
+
+.button-portfolio {color:#4D5AE5; 
+    background: #F4F4FD; 
+    height: 48px;}
+
+.button-all {color:  #FFFFFF; 
+    background-color:  #404BBF;
+    width: 69px;
+    height: 48px;}
+
+.advantages-list h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;}
+
+.advantages-list li {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;}
+
+.section-header {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    color: #2E2F42;}
+
+.contact-link {font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #434455;
+    }
+
+.logo {font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+    }
+
+.header-studio-word {
+        color: #2E2F42;
+      }
+
+.main-nav {font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;}
+    ul {
+        list-style: none;
+      }
+
+    footer {background: #2E2F42;
+        width: 1440px;
+        height: 312px;
+        left: 0px;
+        top: 2280px;}
+    
+    .logo-foot {width: 71px;
+        height: 21px;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 21px;
+        color: #F4F4FD;}
+
+    .fut {width: 264px;
+        height: 72px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+    color:  #F4F4FD;}

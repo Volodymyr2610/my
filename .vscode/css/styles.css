@@ -29,9 +29,19 @@ ul {list-style: none;}
     font-size: 20px;
     line-height: 24px;}
 
-.our-team p {font-weight: 400;
+.our-team p {font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
     font-size: 16px;
-    line-height: 24px}
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    
+    text-align: center;
+    letter-spacing: 0.02em;
+    
+    /* SLATE */
+    
+    color: #434455;}
 
 h3 {color: #2E2F42;}
 
